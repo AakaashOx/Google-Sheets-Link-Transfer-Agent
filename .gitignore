@@ -1,0 +1,28 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Google credentials and tokens
+credentials/
+token.json
+credentials.json
+.env
+
+# Local configuration
+config/registered_weeks.json
+config/automation_settings.json
+
+# Logs
+logs/
+*.log
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
