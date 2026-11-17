@@ -523,9 +523,3 @@ replacement `.pyd` files from untrusted websites.
 
 ------------------------------------------------------------------------
 
-## License
-
-Add a license file if you intend to permit others to reuse, modify, or
-distribute this project. Until a license is added, do not assume that
-the repository is open-source or that others have permission to reuse
-its code.
